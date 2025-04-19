@@ -7,7 +7,10 @@ I'm **Kavish Pal Singh**, a diploma-level student at **IIT Madras**, currently p
 - 🎯 Constantly learning and building projects to expand my knowledge.  
 
 ## 🛠️ My Current Skills  
-- 🐍 **Python**  
+- 🐍 **Python**
+- ☕ **Java**  
 - 🛢️ **SQL**  
-- 🌐 **HTML, CSS, JS**  
-- 🖼️ **Vue.js** 
+- 🌐 **HTML, CSS, JavaScript**  
+- 🖼️ **Vue.js**  
+- 🐧 **Linux Shell Scripting**
+
