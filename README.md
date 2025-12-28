@@ -1,4 +1,4 @@
-# 👋 Hello Everyone!  
+# 👋 Hello!  
 
 I'm **Kavish Pal Singh**, a diploma-level student at **IIT Madras**, currently pursuing **BS in Data Science and Applications** 🎓.  
 
