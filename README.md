@@ -1,6 +1,6 @@
 # 👋 Hello!  
 
-I'm **Kavish Pal Singh**, a diploma-level student at **IIT Madras**, currently pursuing **BS in Data Science and Applications** 🎓.  
+I'm **Kavish Pal Singh**, a 3rd year student at **IIT Madras**, currently pursuing **BS in Data Science and Applications** 🎓.  
 
 ## 🌟 About Me  
 - 🔍 Passionate about **AI**, **Machine Learning**, and **Data Science**.  
