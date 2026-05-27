@@ -10,6 +10,13 @@ Third-year student who enjoys working with data end-to-end — from cleaning mes
 Currently exploring Deep Learning and applied AI. Still learning a lot — and that's the part I enjoy most.
 
 ---
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 ## 🔬 Projects
 
@@ -87,6 +94,8 @@ Built a multi-role web app from scratch — good exercise in thinking about syst
 
 ---
 
-Open to **Data Science and Machine Learning internship opportunities 2026**
+Open to **Data Science and Machine Learning internship opportunities in 2026**
 
-📧 kavishpalsingh@gmail.com · [LinkedIn](https://linkedin.com/in/kavishpalsingh) · [Kaggle](https://kaggle.com/kavishpalsingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavishpalsingh)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/kavishpalsingh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kavishpalsingh@gmail.com)
