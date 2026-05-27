@@ -1,5 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&width=500&lines=Hi%2C+I'm+Kavish+%F0%9F%91%8B;Data+Science+%40+IIT+Madras;ML+%7C+NLP+%7C+Applied+AI)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&width=500&lines=Hi%2C+I'm+Kavish+%F0%9F%91%8B;Data+Science+%40+IIT+Madras;Data+Science+%7C+ML+%7C+Applied+AI)
 ![Profile Views](https://komarev.com/ghpvc/?username=kavishpalsingh&color=blue&style=flat)
 
 # Kavish Pal Singh
@@ -8,39 +7,65 @@
 
 Third-year student who enjoys working with data end-to-end — from cleaning messy real-world datasets to building models and figuring out what the numbers actually mean. I like experimenting, questioning assumptions, and understanding *why* something works rather than just getting it to work.
 
-Currently exploring Deep Learning, and applied AI. Still learning a lot — and that's the part I enjoy most.
+Currently exploring Deep Learning and applied AI. Still learning a lot — and that's the part I enjoy most.
 
 ---
 
 ## 🔬 Projects
 
-**[Multiclass Comment Classification Pipeline](https://github.com/kavishpalsingh/comment-category-classification)** · *Scikit-learn, LightGBM*
-> Worked on classifying 198K noisy comments with a heavy 21:1 class imbalance. One decision that ended up mattering: instead of dropping the 73% missing demographic values, I kept them as a signal — the missingness itself carried information about class behaviour. Ended up in the **Top 5% on Kaggle (Macro F1: 0.8344)**. Awarded **96/100 (S Grade)** at IIT Madras.
+### [Multiclass Comment Classification Pipeline](https://github.com/kavishpalsingh/comment-category-classification)
+**Scikit-learn · LightGBM · NLP · Feature Engineering**
 
-**[B2B Revenue Optimization — Freight Forwarding MNC](https://github.com/kavishpalsingh/BDM-Capstone-Project)** · *Excel, KPI Modelling*
-> Six-month capstone working on real transaction data from a Top-50 global freight forwarder. Spent a lot of time just getting the data usable — ~30% of records were misclassified. Once cleaned, the analysis surfaced a ~32% revenue efficiency gain, ~51% profit efficiency gain YoY, and a 48% drop in new customer acquisition that wasn't being tracked. Presented findings to senior management.
+One decision that ended up mattering: instead of dropping the 73% missing demographic values, I kept them as a signal — the missingness itself carried information about class behaviour.
 
-**[Household Services Platform — Abode Mantra](https://github.com/kavishpalsingh/Household-Services-App-V2)** · *Flask, Vue.js, Celery, Redis*
-> Built a multi-role web app from scratch — 3 user roles, 11 REST APIs, role-based access control, and a background job pipeline for automated reminders, monthly reports, and service rescheduling. Good exercise in thinking about systems beyond just the ML layer. Awarded **100/100 (S Grade)** at IIT Madras.
+- Classified **198K noisy comments** with a severe **21:1 class imbalance**
+- Engineered a 75K-feature TF-IDF matrix with character-level representations
+- Achieved **Top 5% on Kaggle** · **Macro F1: 0.8344**
+- Awarded **96/100 (S Grade)** at IIT Madras
+
+---
+
+### [Revenue Strategy & Market Analysis — Global Freight Forwarding MNC](https://github.com/kavishpalsingh/BDM-Capstone-Project)
+**Excel · KPI Modelling · Business Analytics**
+
+Six-month capstone on real transaction data from a Top-50 global freight forwarder. Spent most of the first month just making the data usable — ~30% of records were misclassified or uncategorised.
+
+- Restructured **10,000+ transaction records** across 9 regional hubs
+- Reclaimed **~30%** misclassified operational data via comment log parsing
+- Identified that overall revenue stagnation was driven by **Nominated Shipments** — largely outside local control — while **Direct Shipments** showed **~32% revenue** and **~51% profit efficiency** gains YoY
+- Diagnosed a **48% drop in new customer acquisition** limiting Direct Shipment growth
+- Presented strategic roadmap to senior management recommending focus on scaling Direct Shipments via ERP/CRM adoption and ABM strategies
+---
+
+
+### [Household Services Platform — Abode Mantra](https://github.com/kavishpalsingh/Household-Services-App-V2)
+**Flask · Vue.js · Celery · Redis · REST APIs**
+
+Built a multi-role web app from scratch — good exercise in thinking about systems beyond just the ML layer.
+
+- 3 user roles (Admin, Customer, Professional) · **11 RESTful APIs**
+- Token-based role-based access control and cascade-delete schema
+- Celery + Redis async pipeline for automated reminders, monthly PDF reports, and service rescheduling
+- Awarded **100/100 (S Grade)** at IIT Madras
 
 ---
 
 ## 🛠️ Technical Skills
 
-| Area | Tools |
+| Category | Skills |
 |---|---|
 | **Languages** | Python, SQL |
-| **ML & Data Science** | Scikit-learn, LightGBM, Pandas, NumPy, SciPy, Matplotlib, Seaborn |
+| **Strong With** | Pandas, NumPy, Scikit-learn, LightGBM, Feature Engineering, EDA |
+| **ML & Analytics** | Classification, NLP, KPI Analysis, Model Evaluation, Class Imbalance Handling |
 | **Backend & APIs** | Flask, REST APIs, Celery, Redis |
 | **Frontend** | Vue.js |
-| **Tools** | Git, Google Colab, VS Code, Linux |
+| **Tools** | Git, Linux, VS Code, Google Colab |
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Kavish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavishpalsingh&show_icons=true&hide_border=true&theme=default&hide=stars)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavishpalsingh&layout=compact&hide_border=true&theme=default)
 
 ---
@@ -48,19 +73,20 @@ Currently exploring Deep Learning, and applied AI. Still learning a lot — and 
 ## 🏅 Highlights
 
 - 🥇 **NPTEL Elite + Gold** — Organizational Behaviour · Top 1% among 4,436 candidates · 97%
-- 🏆 **School Topper** — Computer Science, Class XII CBSE · 99%
+- 🏆 **School Topper** — Computer Science, CBSE Class XII · 99%
 - 🟡 **HackerRank SQL Gold Badge** · Basic & Intermediate Certified · Advanced in progress
 - 📊 **BCG X Forage** — Data for Decision Makers Job Simulation · May 2026
 
 ---
 
-## 🔍 Currently
+## 🔍 Currently Exploring
 
-- Getting deeper into Deep Learning and NLP
-- Competing in Kaggle classification and regression challenges
-- Working through DS/ML focused LeetCode problems
-- Open to **Data Science and ML internship opportunities (2025–26)**
+- Deep Learning, Large Language Models and AI
+- Kaggle classification and regression competitions
+- DS/ML focused LeetCode problems
 
 ---
+
+Open to **Data Science and Machine Learning internship opportunities 2026**
 
 📧 kavishpalsingh@gmail.com · [LinkedIn](https://linkedin.com/in/kavishpalsingh) · [Kaggle](https://kaggle.com/kavishpalsingh)
