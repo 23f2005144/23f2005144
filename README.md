@@ -1,5 +1,4 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&width=500&lines=Hi%2C+I'm+Kavish+%F0%9F%91%8B;Data+Science+%40+IIT+Madras;Data+Science+%7C+ML+%7C+Applied+AI)
-![Profile Views](https://komarev.com/ghpvc/?username=kavishpalsingh&color=blue&style=flat)
 
 # Kavish Pal Singh
 
