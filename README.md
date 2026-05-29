@@ -62,13 +62,6 @@ Built a multi-role web app from scratch — good exercise in thinking about syst
 
 ---
 
-## 📊 GitHub Stats
-
-![Kavish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavishpalsingh&show_icons=true&hide_border=true&theme=default&hide=stars)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavishpalsingh&layout=compact&hide_border=true&theme=default)
-
----
-
 ## 🏅 Highlights
 
 - 🥇 **NPTEL Elite + Gold** — Organizational Behaviour · Top 1% among 4,436 candidates · 97%
