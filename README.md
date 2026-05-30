@@ -66,7 +66,7 @@ Built a multi-role web app from scratch — good exercise in thinking about syst
 
 - 🥇 **NPTEL Elite + Gold** — Organizational Behaviour · Top 1% among 4,436 candidates · 97%
 - 🏆 **School Topper** — Computer Science, CBSE Class XII · 99%
-- 🟡 **HackerRank SQL Gold Badge** · Basic & Intermediate Certified · Advanced in progress
+- 🟡 **HackerRank SQL Gold Badge** · Basic, Intermediate & Advanced Certified
 - 📊 **BCG X Forage** — Data for Decision Makers Job Simulation · May 2026
 
 ---
