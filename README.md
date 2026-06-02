@@ -33,7 +33,7 @@ Six-month capstone on real transaction data from a Top-50 global freight forward
 - Reclaimed **~30%** misclassified operational data via comment log parsing
 - Identified that overall revenue stagnation was driven by **Nominated Shipments** — largely outside local control — while **Direct Shipments** showed **~32% revenue** and **~51% profit efficiency** gains YoY
 - Diagnosed a **48% drop in new customer acquisition** limiting Direct Shipment growth
-- Presented strategic roadmap to senior management recommending focus on scaling Direct Shipments via ERP/CRM adoption and ABM strategies
+- Presented strategic roadmap to senior management recommending focus on scaling Direct Shipments via ERP/CRM adoption and Account-Based Marketing strategies.
 ---
 
 
